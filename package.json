@@ -43,9 +43,6 @@
     "url": "https://github.com/toncenter/tonweb-mnemonic/issues"
   },
   "homepage": "https://github.com/toncenter/tonweb-mnemonic#readme",
-  "engines": {
-    "node": ">=15"
-  },
   "files": [
     "dist/"
   ],
